@@ -3,7 +3,7 @@
 ## 1. Project Title / Headline
 💡 **Smart Banking Insights: Data-Driven Financial Dashboard**
 
-An interactive Power BI dashboard built to analyze and visualize customer transactions, account distribution, and fee revenues—powered by Python for preprocessing, MySQL for data storage, and Power BI for analytics.
+An interactive Power BI dashboard built to analyze and visualize customer transactions, account distribution, and fee revenues — powered by Python for preprocessing, MySQL for data storage, and Power BI for analytics.
 
 ---
 
@@ -77,16 +77,15 @@ To build a visual analytics solution that:
 ---
 
 ## 6. Screenshots / Demos
-Add a snapshot of your dashboard (Power BI `.pbix` screenshot).
 
-Example:  
-![Banking Dashboard Preview](https://github.com/ushantukey/Banking-DashBoard/blob/main/BankingDashboard.png)
-![Banking Dashboard Page2](https://github.com/ushantukey/BankingDashBoard/blob/main/BankingDashboardPage2.png)
-![Banking Dashboard Page3](https://github.com/ushantukey/BankingDashBoard/blob/main/BankingDashboardPage3.png)
-![Banking Dashboard Page4](https://github.com/ushantukey/BankingDashBoard/blob/main/BankingDashboardPage4.png)
+### 📊 Dashboard Previews
 
-
+![Banking Dashboard Page 1](./images/BankingDashboard.png)
+![Banking Dashboard Page 2](./images/BankingDashboardPage2.png)
+![Banking Dashboard Page 3](./images/BankingDashboardPage3.png)
+![Banking Dashboard Page 4](./images/BankingDashboardPage4.png)
 
 ---
 
 ## 7. Folder Structure
+
